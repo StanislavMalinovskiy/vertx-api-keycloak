@@ -1,0 +1,7 @@
+{
+  "name": "vertx-api-keycloak",
+  "version": "1.0.0",
+  "server.host": "127.0.0.1",
+  "server.port": 8888,
+  "enable.http.compression": true
+}
